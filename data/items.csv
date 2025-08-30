@@ -1,0 +1,11 @@
+item_id,question_text
+Q1,Define a stack and list its typical operations.
+Q2,Explain how to implement a queue using two stacks.
+Q3,What is the time complexity of binary search on a sorted array?
+Q4,Given the binary tree example which inorder traversal sequence is correct?
+Q5,Which algorithm reliably detects a cycle in a singly linked list?
+Q6,Which data structure best models an undo feature in text editors?
+Q7,Which traversal visits vertices level by level in an unweighted graph?
+Q8,Use binary search to find the index of a target in a sorted array.
+Q9,Compare the worst-case time complexities of push in stack and enqueue in queue.
+Q10,Convert the infix expression A+(B*C) to postfix form.
